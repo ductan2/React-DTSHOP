@@ -75,7 +75,7 @@ const SidebarContainer = styled.div`
     }
     .logo {
         justify-self: center;
-        height: 45px;
+        height: 150px;
     }
     .links {
         margin-bottom: 2rem;
